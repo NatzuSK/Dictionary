@@ -4,7 +4,7 @@
 
 ---
 
-## 🧰 เทคโนโลยีที่ใช้
+## 🧰 Technology 
 
 - 🌐 **Frontend**: React + Tailwind CSS  
 - 🔥 **Backend**: Python (Flask)  
