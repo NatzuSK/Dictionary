@@ -8,4 +8,3 @@
 
 - 🌐 **Frontend**: React + Tailwind CSS  
 - 🔥 **Backend**: Python (Flask)  
-- 🌍 **Translation Engine**: Google Translate (ผ่าน `googletrans` library)
